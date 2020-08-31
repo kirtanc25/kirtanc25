@@ -4,17 +4,18 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ### About Me
-- Currently in the 4th year of Computer Engineering.
-- I love to make websites and exploring new things in graphic design. I have worked with HTML, CSS & JavaScript and familiar with PHP along with SQL. The activities that I enjoy immensely and indulge in daily are Graphic Design, Web Design & Photoshop.
-- My career aspiration is to become a Web Developer.🤩
+- Currently in the **4th year** of Computer Engineering.
+- I love to make websites and exploring new things in graphic design. I have worked with HTML, CSS & JavaScript and familiar with PHP along with SQL. The activities that I enjoy immensely and indulge in daily are *Graphic Design, Web Design & Photoshop.*
+- I have also done some of the competitive programming (in Python) on online platforms and by participating in **Hackathon (Where my team have reached to Grand Finale 😁).**
+- My career aspiration is to become a **Software Developer.**🤩
 - I have been told that I am a good-looking, kind, attitude-prone person with "oddities". 😄
 - Currently, I am exploring different technologies and learning some cool stuffs that makes someone's easier and efficient. 😉
 
 ### I'm a passionate Developer!
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning ML
-- 💬 Ask me about anything related to Web Development/Python
-- 📫 How to reach me: [kirtanc25][twitter]
+- 💬 Ask me about anything related to Web Development/Python Programming
+- 📫 How to reach me: kirtanc25@gmail.com | [kirtanc25][twitter]
 - ⚡ Fun fact: I ❤ Designing!
 
 ### Languages and Tools:
