@@ -6,8 +6,8 @@
 ### About Me
 - Currently in the **4th year** of Computer Engineering.
 - I love to make websites and exploring new things in graphic design. I have worked with HTML, CSS & JavaScript and familiar with PHP along with SQL. The activities that I enjoy immensely and indulge in daily are *Graphic Design, Web Design & Photoshop.*
-- I have also done some of the competitive programming (in Python) on online platforms and by participating in **Hackathon (Where my team have reached to Grand Finale 😁).**
-- My career aspiration is to become a **Software Developer.**🤩
+- I have also done some of the competitive programming (in Python) on online platforms and by participating in **Hackathon (where our team have reached to Grand Finale 😁).**
+- My career aspiration is to become a **Software Developer.🤩**
 - I have been told that I am a good-looking, kind, attitude-prone person with "oddities". 😄
 - Currently, I am exploring different technologies and learning some cool stuffs that makes someone's easier and efficient. 😉
 
