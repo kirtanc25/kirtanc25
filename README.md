@@ -43,7 +43,6 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br/>
@@ -60,7 +59,6 @@
 [website]: https://kirtanchavda.me/
 [twitter]: https://twitter.com/kirtanc25
 [youtube]: https://www.youtube.com/channel/UChxxGHTa3H1kQJAZXS1BRmA
-[instagram]: https://www.instagram.com/royalk2c/
 [linkedin]: https://linkedin.com/in/kirtanc25
 [behance]: https://www.behance.net/kirtanc25
 
