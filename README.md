@@ -15,7 +15,7 @@
 - 🔭 I’m currently working as a Intern 😉
 - 🌱 I’m currently learning AWS 
 - 💬 Ask me about anything related to Web Development/Python Programming
-- 📫 How to reach me: [E-mail Me][email] | [Twitter][twitter]
+- 📫 How to reach me: [E-mail][email] | [Twitter][twitter]
 - ⚡ Fun fact: I ❤ Designing!
 
 ### Languages and Tools:
@@ -61,7 +61,7 @@
 [youtube]: https://www.youtube.com/channel/UChxxGHTa3H1kQJAZXS1BRmA
 [linkedin]: https://linkedin.com/in/kirtanc25
 [behance]: https://www.behance.net/kirtanc25
-[email]: kirtanc25@gmail.com
+[email]: mailto:kirtanc25@gmail.com
 
 
 
