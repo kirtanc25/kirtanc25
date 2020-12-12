@@ -7,7 +7,7 @@
 - Currently in the **4th year** of Computer Engineering. 
 - I love to make websites and exploring new things in graphic design. I have worked with HTML, CSS & JavaScript and familiar with PHP along with SQL. The activities that I enjoy immensely and indulge in daily are *Graphic Design, Web Design & Photoshop.*
 - I have also done some of the competitive programming (in Python) on online platforms and by participating in **Hackathon (where our team have reached to Grand Finale 😁).**
-- My career aspiration is to become a **Software Developer.🤩** ✅
+- My career aspiration is to become a **Software Developer.🤩** ( ✅ Achieved )
 - I have been told that I am a good-looking, kind, attitude-prone person with "oddities". 😄 
 - Currently, I am exploring different technologies and learning some cool stuffs that makes someone's easier and efficient. 😉
 
@@ -44,6 +44,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br/>
 <br/> 
@@ -61,6 +62,7 @@
 [youtube]: https://www.youtube.com/channel/UChxxGHTa3H1kQJAZXS1BRmA
 [instagram]: https://www.instagram.com/royalk2c/
 [linkedin]: https://linkedin.com/in/kirtanc25
+[behance]: https://www.behance.net/kirtanc25
 
 
 
