@@ -57,7 +57,7 @@
 </details>
 
 
-[website]: https://kirtanc25.github.io/
+[website]: https://kirtanchavda.me/
 [twitter]: https://twitter.com/kirtanc25
 [youtube]: https://www.youtube.com/channel/UChxxGHTa3H1kQJAZXS1BRmA
 [instagram]: https://www.instagram.com/royalk2c/
