@@ -25,19 +25,19 @@
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-<br/>
-<br/><img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="MS Word" width="26px" src="https://simpleicons.org/icons/microsoftword.svg" />
-<img align="left" alt="MS Powerpoint" width="26px" src="https://simpleicons.org/icons/microsoftpowerpoint.svg" />
-<img align="left" alt="Adobe XD" width="26px" src="https://simpleicons.org/icons/adobexd.svg" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
-<img align="left" alt="Slack" width="26px" src="https://simpleicons.org/icons/slack.svg" />
-<img align="left" alt="Coda" width="26px" src="https://simpleicons.org/icons/coda.svg" />
-<img align="left" alt="MS Teams" width="26px" src="https://simpleicons.org/icons/microsoftteams.svg" />
-<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="Github" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Jenkins" width="26px" src="https://simpleicons.org/icons/jenkins.svg" />
-<img align="left" alt="Terraform" width="26px" src="https://simpleicons.org/icons/terraform.svg" />
+
+<img align="right" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="right" alt="MS Word" width="26px" src="https://simpleicons.org/icons/microsoftword.svg" />
+<img align="right" alt="MS Powerpoint" width="26px" src="https://simpleicons.org/icons/microsoftpowerpoint.svg" />
+<img align="right" alt="Adobe XD" width="26px" src="https://simpleicons.org/icons/adobexd.svg" />
+<img align="right" alt="Adobe Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+<img align="right" alt="Slack" width="26px" src="https://simpleicons.org/icons/slack.svg" />
+<img align="right" alt="Coda" width="26px" src="https://simpleicons.org/icons/coda.svg" />
+<img align="right" alt="MS Teams" width="26px" src="https://simpleicons.org/icons/microsoftteams.svg" />
+<img align="right" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
+<img align="right" alt="Github" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="right" alt="Jenkins" width="26px" src="https://simpleicons.org/icons/jenkins.svg" />
+<img align="right" alt="Terraform" width="26px" src="https://simpleicons.org/icons/terraform.svg" />
 
 <br/>
 <br/>
