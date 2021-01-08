@@ -26,8 +26,7 @@
 <img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
 <br/>
-<br/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<br/><img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="MS Word" width="26px" src="https://simpleicons.org/icons/microsoftword.svg" />
 <img align="left" alt="MS Powerpoint" width="26px" src="https://simpleicons.org/icons/microsoftpowerpoint.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://simpleicons.org/icons/adobexd.svg" />
@@ -39,7 +38,6 @@
 <img align="left" alt="Github" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://simpleicons.org/icons/jenkins.svg" />
 <img align="left" alt="Terraform" width="26px" src="https://simpleicons.org/icons/terraform.svg" />
-
 
 <br/>
 <br/>
@@ -53,15 +51,7 @@
 [<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br/>
-<br/> 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Kirtan's Github Stats" src="https://github-readme-stats.kirtanc25.vercel.app//api?username=kirtanc25&show_icons=true&hide_border=true" />
-
-</details>
-
+<br/>
 
 [website]: https://kirtanchavda.me/
 [twitter]: https://twitter.com/kirtanc25
