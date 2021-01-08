@@ -23,10 +23,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/jquery.svg" />
-
 <img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<br/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="MS Word" width="26px" src="https://simpleicons.org/icons/microsoftword.svg" />
 <img align="left" alt="MS Powerpoint" width="26px" src="https://simpleicons.org/icons/microsoftpowerpoint.svg" />
