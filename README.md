@@ -18,15 +18,11 @@
 - 📫 How to reach me: [E-mail][email] | [Twitter][twitter]
 - ⚡ Fun fact: I ❤ Designing!
 
-### Cloud Platforms:
+### Cloud Platforms & Tech Stacks:
 
 <img align="left" alt="AWS" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 <img align="left" alt="GCP" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
 
-<br/>
-<br/>
-
-### Tech Stack:
 
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="Terraform" width="26px" src="https://simpleicons.org/icons/terraform.svg" />
@@ -48,38 +44,30 @@
 <br/>
 <br/>
 
-### Editor:
+### Editor & Office Apps:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 
-<br/>
-<br/>
-
-### Office:
-
 <img align="left" alt="MS Word" width="26px" src="https://simpleicons.org/icons/microsoftword.svg" />
 <img align="left" alt="MS Powerpoint" width="26px" src="https://simpleicons.org/icons/microsoftpowerpoint.svg" />
+<img align="left" alt="MS Excel" width="26px" src="https://simpleicons.org/icons/microsoftexcel.svg" />
 
 <br/>
 <br/>
 
-### Design:
+### Design & Publish:
 
 <img align="left" alt="Adobe XD" width="26px" src="https://simpleicons.org/icons/adobexd.svg" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+<img align="left" alt="Behance" width="26px" src="https://simpleicons.org/icons/behance.svg" />
 
 <br/>
 <br/>
 
-### Collaborate:
+### Collaborate & Version Control:
 
 <img align="left" alt="Slack" width="26px" src="https://simpleicons.org/icons/slack.svg" />
 <img align="left" alt="Coda" width="26px" src="https://simpleicons.org/icons/coda.svg" />
-
-<br/>
-<br/>
-
-### Version Control:
 
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="Github" width="26px" src="https://simpleicons.org/icons/github.svg" />
